@@ -9,6 +9,6 @@
 <h2>Joe Buldini</h2>
 <p>My name is Joe and I live in southern New Hampshire with my dog Ringo.  I work in an IS group at a healthcare org in Boston.  My girlfriend Annie lives in Cambridge (not far from Harvard)</p>
 <p>As far as a code editor I'm currently using Notepad++.  In future assignments I'll probably be using Sublime Text 2 but I'd like familiarize myself with it first.</p>
-<p>My CSS will look better in future assignments.  I mean, it has too right...</p>
+<p>My CSS will look better in future assignments.  I mean, it has to right...</p>
 </body>
 </html>
